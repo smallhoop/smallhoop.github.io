@@ -1,9 +1,33 @@
 body {
-    padding: 25 25 25 25;
+    margin: 25 25 25 25;
     background-color: #f2f2f2;
 }
 
-p {
+div.divider {
+    width: 50%;
+    height: 1;
+    background-color: #adadad;
+    margin: 50 0 50 0;
+}
+
+div.tdivider {
+    width: 50%;
+    height: 1;
+    background-color: #f2f2f2;
+    margin: 50 0 50 0;
+}
+
+a {
+    padding: 10 5 0 5;
+}
+
+h1 {
     font-family: 'Archivo Black', sans-serif;
     font-size: 54;
+    line-height: 0;
+}
+
+h5 {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 16;
 }
