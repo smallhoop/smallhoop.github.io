@@ -21,6 +21,11 @@ a {
     padding: 10 5 0 5;
 }
 
+iframe {
+    width: 100%;
+    max-width: 560;
+}
+
 h1 {
     font-family: 'Archivo Black', sans-serif;
     font-size: 44;
